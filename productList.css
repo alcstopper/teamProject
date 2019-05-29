@@ -1,0 +1,25 @@
+body{
+	width:100%;
+}
+#product-list{
+	margin-top:50px;
+	list-style-type : none;
+}
+
+.product-list-box{
+	display : inline-block;
+	width : 33%;
+	text-align : center;
+}
+#product-list ul li {
+	display : block;
+	height : 100%;
+	list-style-type : none;
+}
+#product-list ul li a{
+	text-decoration : none;
+}
+.item-image-box-200{
+	width : 200px;
+	height : 200px;
+}
